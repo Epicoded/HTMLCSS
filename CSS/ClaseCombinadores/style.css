@@ -1,0 +1,19 @@
+/*h2 + p /* Hermano adyacente o adjacent sibling
+{
+    color: red; 
+}*/
+
+/*h2 ~ p  Sibling general, aplica el estilo 
+{
+    color: red;
+}*/
+
+/*div > p
+{ /* Combinador child o hijo directo
+    color: red;
+}*/
+
+div p /* Combinador descendiente */
+{
+    color: red;
+}
